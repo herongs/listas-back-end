@@ -1,5 +1,5 @@
-# Exercícios Back End 
+# Back End Connect 
 <hr>
 
-Exercíciso desenvolvidos durante as aulas de Back End do curso Biopark Connect
+Exercícios desenvolvidos durante as aulas de Back End do curso Biopark Connect
  
